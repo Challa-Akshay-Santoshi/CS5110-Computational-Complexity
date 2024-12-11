@@ -1,3 +1,3 @@
 # CS5110-Computational-Complexity
 
-Taught by Dr.Subrahmanyam Kalyanasundaram in Jan-May 2024
+Taught by Dr.Subrahmanyam Kalyanasundaram in July-Nov 2024
